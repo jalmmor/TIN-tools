@@ -1,0 +1,7 @@
+[general]
+name=TIN Tools
+description=TIN Tools
+version=0.1
+qgisMinimumVersion=3.0
+author=Jorge Almaraz
+email=jalmmor@gmail.com
